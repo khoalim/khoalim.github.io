@@ -186,12 +186,12 @@ section ul{
 
 footer{
     font-size:13px;
-    margin-top: 1.5em;
-    margin-bottom: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
     border-radius: 15px;
     background: #333; 
     color: white;
-    padding: 1em 0;
+    padding: 0.5em 0;
     text-align: center;
 }
 
